@@ -5,5 +5,8 @@
         <field name="NUM">300</field>
       </block>
     </value>
+    <statement name="DO">
+      <block type="movement_forward" id="103"></block>
+    </statement>
   </block>
 </xml>
