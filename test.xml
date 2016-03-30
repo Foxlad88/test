@@ -1,1 +1,9 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="controls_repeat" id="92" inline="true" x="-652" y="-118">
+    <value name="TIMES">
+      <block type="math_number" id="48">
+        <field name="NUM">300</field>
+      </block>
+    </value>
+  </block>
+</xml>
