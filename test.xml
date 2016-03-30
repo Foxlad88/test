@@ -1,12 +1,13 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="116" inline="true" x="-686" y="-22">
-    <value name="TIMES">
-      <block type="math_number" id="134">
-        <field name="NUM">1</field>
+  <block type="controls_whileUntil" id="156" inline="false" x="-429" y="-62">
+    <field name="MODE">WHILE</field>
+    <value name="NUMBER">
+      <block type="math_number" id="172">
+        <field name="NUM">2</field>
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_forward" id="126"></block>
+      <block type="movement_forward" id="182"></block>
     </statement>
   </block>
 </xml>
